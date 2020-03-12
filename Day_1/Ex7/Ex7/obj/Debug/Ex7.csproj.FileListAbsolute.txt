@@ -1,0 +1,6 @@
+D:\C#\Day_1\Ex7\Ex7\bin\Debug\Ex7.exe.config
+D:\C#\Day_1\Ex7\Ex7\bin\Debug\Ex7.exe
+D:\C#\Day_1\Ex7\Ex7\bin\Debug\Ex7.pdb
+D:\C#\Day_1\Ex7\Ex7\obj\Debug\Ex7.csprojAssemblyReference.cache
+D:\C#\Day_1\Ex7\Ex7\obj\Debug\Ex7.exe
+D:\C#\Day_1\Ex7\Ex7\obj\Debug\Ex7.pdb

@@ -1,0 +1,5 @@
+D:\C#\Day_1\Ex5\Ex5\bin\Debug\Ex5.exe.config
+D:\C#\Day_1\Ex5\Ex5\bin\Debug\Ex5.exe
+D:\C#\Day_1\Ex5\Ex5\bin\Debug\Ex5.pdb
+D:\C#\Day_1\Ex5\Ex5\obj\Debug\Ex5.exe
+D:\C#\Day_1\Ex5\Ex5\obj\Debug\Ex5.pdb
